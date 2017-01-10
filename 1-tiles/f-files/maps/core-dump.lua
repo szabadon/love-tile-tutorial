@@ -25,7 +25,7 @@ local quadInfo = {
   { '^', 32,  0 }, -- mainframe 1 top
   { '@', 32, 32 }, -- mainframe 1 bottom
   { 'A', 64,  0 }, -- mainframe 2 top
-  { '|', 64, 32 }, -- maingrame 2 bottom
+  { '|', 64, 32 }, -- mainframe 2 bottom
   { '*', 96,  0 }, -- plant top
   { 'l', 96, 32 }  -- plant bottom
 }
